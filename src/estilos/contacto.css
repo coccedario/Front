@@ -1,0 +1,40 @@
+.logueo {
+
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    color: #008b8b;
+    width: 600px;
+    height: auto;
+    margin: auto;
+    padding: 10px;
+  
+  }
+
+  .renglon {
+   
+    display: flex;
+   
+  
+}
+.columna {
+   
+    text-align: right;
+   
+  
+}
+
+.boton {
+
+    background-color: #008b8b;
+    border-radius: 10px;
+    color: #f4fafa;
+  font-size: 12px;
+   font-style: italic;
+   font-stretch: extra-expanded;
+
+    margin: auto;
+    padding: 8px;
+    padding-left: 40px;
+    padding-right: 40px;
+  
+  }

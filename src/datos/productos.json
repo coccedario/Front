@@ -1,0 +1,212 @@
+[
+    {
+        "grupo":"bateria",
+        "texto":"Yamaha",
+        "titulo":"Bateria",
+        "img":"../img/baterias.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"bateria",
+        "texto":"Solidrum",
+        "titulo":"Bateria",
+        "img":"../img/tobibat.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"bateria",
+        "texto":"Platillo",
+        "titulo":"Paiste",
+        "img":"../img/plato.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Acustica",
+        "titulo":"Yamaha",
+        "img":"../img/acustica3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Electro Acustica",
+        "titulo":"Fender",
+        "img":"../img/acustica2.png",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Guitarra Electrica",
+        "titulo":" Gibson ",
+        "img":"../img/gibson3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"teclados",
+        "texto":"Yamaha",
+        "titulo":"Sintetizador",
+        "img":"../img/pianoelect2.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"teclados",
+        "texto":"Julius",
+        "titulo":"Piano",
+        "img":"../img/piano.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"teclados",
+        "texto":"Piano Electrico",
+        "titulo":"Korg",
+        "img":"../img/pianoelect.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Yamaha",
+        "titulo":"Acustica",
+        "img":"../img/acustica3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Fender",
+        "titulo":"Electro Acusticas",
+        "img":"../img/acustica2.png",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Gibson",
+        "titulo":"Electricas",
+        "img":"../img/gibson3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"vientos",
+        "texto":"Yamaha",
+        "titulo":"Saxos",
+        "img":"../img/saxo.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"vientos",
+        "texto":"Jupiter",
+        "titulo":"Cornos",
+        "img":"../img/corno.png",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"vientos",
+        "texto":"Flauta",
+        "titulo":"Yamaha",
+        "img":"../img/flauta.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"bateria",
+        "texto":"Yamaha",
+        "titulo":"Baterias",
+        "img":"../img/baterias.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"bateria",
+        "texto":"Clases",
+        "titulo":"Drumsdoctor",
+        "img":"../img/tobibat.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"bateria",
+        "texto":"Platillo",
+        "titulo":"Paiste",
+        "img":"../img/plato.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Yamaha",
+        "titulo":"Acustica",
+        "img":"../img/acustica3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Fender",
+        "titulo":"Electro Acusticas",
+        "img":"../img/acustica2.png",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Gibson",
+        "titulo":"Electricas",
+        "img":"../img/gibson3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"teclados",
+        "texto":"Yamaha",
+        "titulo":"Sintetizador",
+        "img":"../img/pianoelect2.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"teclados",
+        "texto":"Julius",
+        "titulo":"Piano",
+        "img":"../img/piano.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"teclados",
+        "texto":"Piano Electrico",
+        "titulo":"Korg",
+        "img":"../img/pianoelect.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Yamaha",
+        "titulo":"Acustica",
+        "img":"../img/acustica3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Fender",
+        "titulo":"Electro Acusticas",
+        "img":"../img/acustica2.png",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"acusticas",
+        "texto":"Gibson",
+        "titulo":"Electricas",
+        "img":"../img/gibson3.jpeg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"vientos",
+        "texto":"Yamaha",
+        "titulo":"Saxos",
+        "img":"../img/saxo.jpg",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"vientos",
+        "texto":"Jupiter",
+        "titulo":"Cornos",
+        "img":"../img/corno.png",
+        "precio": "$ 50.000"
+    },
+    {
+        "grupo":"vientos",
+        "texto":"Flauta",
+        "titulo":"Yamaha",
+        "img":"../img/flauta.jpeg",
+        "precio": "$ 50.000"
+    }
+]
