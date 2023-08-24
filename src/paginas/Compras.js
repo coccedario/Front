@@ -174,7 +174,7 @@ const Contacto = (props) => {
 
                                 </td>
                                 <td className="columna">
-                                    <p><input style={styles.input} type="text" name='nombre' value={FormData.nombre} onChange={handleChange} /></p>
+                                    <p><input style={styles.input} type="text" name='nombre' required value={FormData.nombre} onChange={handleChange} /></p>
                                 </td>
                             </tr>
 
@@ -188,7 +188,7 @@ const Contacto = (props) => {
                                 </td>
                                 <td className="columna">
 
-                                    <p><input type="email" name='email' value={FormData.email} onChange={handleChange} /></p>
+                                    <p><input type="email" required   name='email' value={FormData.email} onChange={handleChange} /></p>
 
                                 </td>
                             </tr>
@@ -202,7 +202,7 @@ const Contacto = (props) => {
                                 </td>
                                 <td className="columna">
 
-                                    <p><input style={styles.input} type="text" name='telefono' value={FormData.telefono} onChange={handleChange} /></p>
+                                    <p><input style={styles.input} type="text" name='telefono' required value={FormData.telefono} onChange={handleChange} /></p>
 
                                 </td>
                             </tr>
@@ -217,7 +217,7 @@ const Contacto = (props) => {
                             </td>
                             <td className="columna">
 
-                            <p><input style={styles.input} type="text" name='calle' value={FormData.telefono} onChange={handleChange} /></p>
+                            <p><input style={styles.input} type="text" name='calle' required value={FormData.telefono} onChange={handleChange} /></p>
                             </td>
                         </tr>
 
@@ -231,7 +231,7 @@ const Contacto = (props) => {
                             </td>
                             <td className="columna">
 
-                            <p><input style={styles.input} type="text" name='numero' value={FormData.telefono} onChange={handleChange} /></p>
+                            <p><input style={styles.input} type="text" name='numero' required value={FormData.telefono} onChange={handleChange} /></p>
 
 
                             </td>
